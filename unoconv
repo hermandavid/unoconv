@@ -401,6 +401,7 @@ fmts.add('document', 'ooxml', 'xml', 'Microsoft Office Open XML', 'MS Word 2003 
 fmts.add('document', 'ott', 'ott', 'Open Document Text', 'writer8_template') ### 21
 fmts.add('document', 'pdb', 'pdb', 'AportisDoc (Palm)', 'AportisDoc Palm DB')
 fmts.add('document', 'pdf', 'pdf', 'Portable Document Format', 'writer_pdf_Export') ### 18
+fmts.add('document', 'png', 'png', 'Portable Network Graphic', 'writer_png_Export') ### 2
 fmts.add('document', 'psw', 'psw', 'Pocket Word', 'PocketWord File')
 fmts.add('document', 'rtf', 'rtf', 'Rich Text Format', 'Rich Text Format') ### 16
 fmts.add('document', 'sdw', 'sdw', 'StarWriter 5.0', 'StarWriter 5.0') ### 23
